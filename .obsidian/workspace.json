@@ -172,9 +172,19 @@
               "icon": "bot",
               "title": "Claudian"
             }
+          },
+          {
+            "id": "3b46e09a59f430ed",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -194,7 +204,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ac65d6000bf8390f",
+  "active": "3b46e09a59f430ed",
   "lastOpenFiles": [
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
