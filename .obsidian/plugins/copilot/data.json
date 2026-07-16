@@ -330,6 +330,18 @@
         "reasoning"
       ],
       "apiKey": ""
+    },
+    {
+      "name": "deepseek-v4-pro",
+      "provider": "deepseek",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "deepseek-v4-flash",
+      "provider": "deepseek",
+      "enabled": true,
+      "apiKey": ""
     }
   ],
   "activeEmbeddingModels": [
