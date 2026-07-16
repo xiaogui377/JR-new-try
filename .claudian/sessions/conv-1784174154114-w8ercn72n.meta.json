@@ -1,10 +1,25 @@
 {
   "id": "conv-1784174154114-w8ercn72n",
   "providerId": "claude",
-  "title": "hello",
-  "titleGenerationStatus": "pending",
+  "title": "Greet AI assistant",
+  "titleGenerationStatus": "success",
   "createdAt": 1784174154125,
-  "updatedAt": 1784174154138,
-  "sessionId": null,
-  "selectedModel": "haiku"
+  "updatedAt": 1784174171421,
+  "lastResponseAt": 1784174164803,
+  "sessionId": "55f7eb2c-fc72-4263-b009-37a1b849f3bd",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "55f7eb2c-fc72-4263-b009-37a1b849f3bd"
+  },
+  "currentNote": "尝试一下.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 195,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19328,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 19523,
+    "percentage": 10
+  }
 }
