@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电路学/电路目录.md",
+                "file": "电路学/目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "电路目录"
+              "title": "目录"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电路学/电路目录.md",
+                "file": "电路学/目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "电路目录 的反向链接列表"
+              "title": "目录 的反向链接列表"
             }
           },
           {
@@ -207,7 +207,7 @@
   "active": "aeafe5c488b05b96",
   "lastOpenFiles": [
     "尝试一下.md",
-    "电路学/电路目录.md",
+    "电路学/目录.md",
     "电路学",
     "copilot/copilot-conversations/API_key_error_greeting@20260716_120126.md",
     "copilot/copilot-conversations",
