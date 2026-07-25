@@ -42,7 +42,7 @@
   "hashSyncLimitEnabled": false,
   "hashSyncLimit": 50000,
   "largeFileNoticeShown": [],
-  "apiToken": "",
-  "api": "",
+  "apiToken": "fns-enc2:9a86b5979db89c96b096b5b6aa85b6ceb196b68cb691adca9cbcb6c9b6948fa7a9bcb5c6d19a86b5ce9ea8ae96b095ba8cb692ca8fa6cd8b8aa6a8ce93b6959096b69688969bb8c68da5a8cab5a5bcb6c9b29688969d92c68aa6cdaa96b096b6ccad93a9b3b2ab97af9eaa97ccadaab1ab9da7b1a5b69688969ea7b185b6959096a592b9859bbcce8a9dccad93b3a7b1ca9d92b28b9ccda9869b929395a5acb68cb691b1cea696b6c9b691a985a5a7b68b9bb8c68da5a8cb96b3bcb5939ab7be96b095bacbb2aba6ceb29598ccb285988cb692ca96a596b6c9b2ab9ccbb1bb94cab2959c85b0bc88969ea8b9cfb6959087b18598cfb0ab9486b185b2cbb3bcb58e9bb89496b096b687b691cfd18f9c98cc95cdc7c8aabd90adc79b8f99ccba97cb94918aaf88a9a69ebcceaeaab59c99adae91c696cd9caa",
+  "api": "http://localhost:9000",
   "vault": "JR-new-try"
 }
