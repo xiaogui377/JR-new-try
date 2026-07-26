@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电路学/目录.md",
+                "file": "尝试一下.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "目录"
+              "title": "尝试一下"
             }
           }
         ]
@@ -205,11 +205,11 @@
       "fast-note-sync:FNS菜单": false
     }
   },
-  "active": "3b46e09a59f430ed",
+  "active": "4bde6e7e1f086b8b",
   "lastOpenFiles": [
+    "电路学/目录.md",
     "未命名.md",
     "尝试一下.md",
-    "电路学/目录.md",
     "电路学",
     "copilot/copilot-conversations/API_key_error_greeting@20260716_120126.md",
     "copilot/copilot-conversations",
