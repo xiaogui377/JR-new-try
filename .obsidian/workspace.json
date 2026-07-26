@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "尝试一下.md",
+                "file": "5.1运算放大器的电路模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "尝试一下"
+              "title": "5.1运算放大器的电路模型"
             }
           }
         ]
@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,11 +205,25 @@
       "fast-note-sync:FNS菜单": false
     }
   },
-  "active": "4bde6e7e1f086b8b",
+  "active": "aeafe5c488b05b96",
   "lastOpenFiles": [
+    "电路公式推导.pdf",
+    "电路学/电路公式推导.pdf",
+    "运算放大器工作模型.pdf",
+    "尝试一下.md",
+    "数学关系模型.pdf",
+    "电路 MOC.md",
+    "未命名.base",
+    "公式速查表（电路）.md",
+    "未命名.canvas",
+    "基尔霍夫定律.md",
+    "2026-07-26.md",
+    "公式推导.md",
+    "就业职业规划选择.md",
+    "5.1运算放大器的电路模型.md",
+    "戴维南定理.md",
     "电路学/目录.md",
     "未命名.md",
-    "尝试一下.md",
     "电路学",
     "copilot/copilot-conversations/API_key_error_greeting@20260716_120126.md",
     "copilot/copilot-conversations",
@@ -226,8 +240,6 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "新建 文本文档.txt"
