@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -205,8 +205,9 @@
       "fast-note-sync:FNS菜单": false
     }
   },
-  "active": "aeafe5c488b05b96",
+  "active": "3b46e09a59f430ed",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/问候对话@20260726_231616.md",
     "电路公式推导.pdf",
     "电路学/电路公式推导.pdf",
     "运算放大器工作模型.pdf",
