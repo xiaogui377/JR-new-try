@@ -205,8 +205,27 @@
       "fast-note-sync:FNS菜单": false
     }
   },
-  "active": "3b46e09a59f430ed",
+  "active": "4bde6e7e1f086b8b",
   "lastOpenFiles": [
+    "电容性质及公式.jpg",
+    "倒向比例器电路模型.jpg",
+    "电容元件性质二.jpg",
+    "库伏特性.jpg",
+    "电容单位.jpg",
+    "闭环电路工作计算推导.pdf",
+    "比例加法器.jpg",
+    "线性时不变电容元件.jpg",
+    "运放例题答案.jpg",
+    "电压跟随器.jpg",
+    "非倒向比例器.jpg",
+    "运算放大器理想用法.pdf",
+    "减法运算.jpg",
+    "电路学/5.2比例电路的分析.md",
+    "5.3含有理想放大器的电路分析.md",
+    "电路学/5.1运算放大器的电路模型.md",
+    "5.4运放典型例题.md",
+    "copilot/copilot-conversations/Simple_Hello@20260727_000241.md",
+    "6.1储能元件一一电容.md",
     "copilot/copilot-conversations/问候对话@20260726_231616.md",
     "电路公式推导.pdf",
     "电路学/电路公式推导.pdf",
@@ -234,15 +253,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "新建 文本文档.txt"
+    "copilot/copilot-custom-prompts"
   ]
 }
