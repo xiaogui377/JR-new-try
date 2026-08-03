@@ -11,12 +11,14 @@
             "id": "aeafe5c488b05b96",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "电容元件性质一.jpg"
+                "file": "电路学/南方电网考试大纲.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "电容元件性质一"
+              "icon": "lucide-file",
+              "title": "南方电网考试大纲"
             }
           }
         ]
@@ -205,6 +207,8 @@
   },
   "active": "aeafe5c488b05b96",
   "lastOpenFiles": [
+    "电容元件性质一.jpg",
+    "电路学/南方电网考试大纲.md",
     "电容做功计算.jpg",
     "韦安特性.pdf",
     "n个电容电感的串并联.pdf",
@@ -226,7 +230,6 @@
     "线性时不变电容元件.jpg",
     "运放例题答案.jpg",
     "电压跟随器.jpg",
-    "非倒向比例器.jpg",
     "运算放大器理想用法.pdf",
     "电路学/运算放大器/5.2比例电路的分析.md",
     "电路学/运算放大器/5.3含有理想放大器的电路分析.md",
@@ -250,7 +253,6 @@
     "未命名.md",
     "copilot/copilot-conversations/API_key_error_greeting@20260716_120126.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md"
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md"
   ]
 }
