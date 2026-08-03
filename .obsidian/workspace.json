@@ -11,14 +11,12 @@
             "id": "aeafe5c488b05b96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "copilot/copilot-conversations/问候对话@20260726_231616.md",
-                "mode": "source",
-                "source": false
+                "file": "电容元件性质一.jpg"
               },
-              "icon": "lucide-file",
-              "title": "问候对话@20260726_231616"
+              "icon": "lucide-image",
+              "title": "电容元件性质一"
             }
           }
         ]
@@ -207,11 +205,18 @@
   },
   "active": "aeafe5c488b05b96",
   "lastOpenFiles": [
+    "电容做功计算.jpg",
+    "韦安特性.pdf",
+    "n个电容电感的串并联.pdf",
+    "电容性质及公式.jpg",
+    "copilot/copilot-conversations/问候对话@20260726_231616.md",
+    "6.3电容电感的串并联.md",
+    "好诗句.md",
+    "6.2储能元件一一电感.md",
     "电路学/运算放大器/5.4运放典型例题.md",
     "电路学/运算放大器/5.1运算放大器的电路模型 1.md",
     "电路学/运算放大器",
     "电路学/运算放大器/5.1运算放大器的电路模型.md",
-    "电容性质及公式.jpg",
     "倒向比例器电路模型.jpg",
     "电容元件性质二.jpg",
     "库伏特性.jpg",
@@ -227,7 +232,6 @@
     "电路学/运算放大器/5.3含有理想放大器的电路分析.md",
     "copilot/copilot-conversations/Simple_Hello@20260727_000241.md",
     "6.1储能元件一一电容.md",
-    "copilot/copilot-conversations/问候对话@20260726_231616.md",
     "电路公式推导.pdf",
     "电路学/电路公式推导.pdf",
     "运算放大器工作模型.pdf",
@@ -244,14 +248,9 @@
     "戴维南定理.md",
     "电路学/目录.md",
     "未命名.md",
-    "电路学",
     "copilot/copilot-conversations/API_key_error_greeting@20260716_120126.md",
-    "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md"
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md"
   ]
 }
