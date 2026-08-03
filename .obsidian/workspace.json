@@ -11,10 +11,14 @@
             "id": "aeafe5c488b05b96",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "copilot/copilot-conversations/问候对话@20260726_231616.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "问候对话@20260726_231616"
             }
           }
         ]
