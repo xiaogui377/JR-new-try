@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电路学/南方电网考试大纲.md",
+                "file": "7.1动态电路方程及其初始条件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "南方电网考试大纲"
+              "title": "7.1动态电路方程及其初始条件"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -205,8 +207,10 @@
       "fast-note-sync:FNS菜单": false
     }
   },
-  "active": "aeafe5c488b05b96",
+  "active": "4bde6e7e1f086b8b",
   "lastOpenFiles": [
+    "电路学/未命名",
+    "电路学/南方电网考试大纲.md",
     "电感电压、电流关系式.jpg",
     "线性时不变.jpg",
     "电感的储能.jpg",
@@ -221,7 +225,6 @@
     "电感的公式推导.pdf",
     "南方电网公司2026年校园招聘笔试大纲 (1).pdf",
     "电容元件性质一.jpg",
-    "电路学/南方电网考试大纲.md",
     "电容做功计算.jpg",
     "韦安特性.pdf",
     "n个电容电感的串并联.pdf",
@@ -234,7 +237,6 @@
     "电路学/运算放大器/5.1运算放大器的电路模型 1.md",
     "电路学/运算放大器",
     "电路学/运算放大器/5.1运算放大器的电路模型.md",
-    "倒向比例器电路模型.jpg",
     "闭环电路工作计算推导.pdf",
     "运算放大器理想用法.pdf",
     "电路学/运算放大器/5.2比例电路的分析.md",
